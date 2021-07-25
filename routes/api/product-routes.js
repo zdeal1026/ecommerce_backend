@@ -6,6 +6,12 @@ const { Product, Category, Tag, ProductTag } = require('../../models');
 // get all products
 router.get('/', async (req, res) => {
   // find all products
+  try {
+    const prod = await Product.findAll();
+    res.status(200).json(prod);
+  } catch (err) {
+    res.status(500).json(err);
+  }
   // be sure to include its associated Category and Tag data
 });
 
@@ -91,6 +97,23 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   // delete one product by its `id` value
+  try {
+    const prod = await Category.destroy({ 
+      where: { 
+        id: req.params.id,
+      },
+    });
+
+    if (!prod) {
+      res.status(404).json({ message: "Id has no category"});
+      return;
+    }
+
+    res.status(200).json(prod);
+  } catch (err) {
+    res.status(500).json(err);
+  }
 });
+
 
 module.exports = router;
