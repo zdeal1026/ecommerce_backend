@@ -36,7 +36,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // create new product
-router.post('/', async (req, res) => {
+router.post('/', (req, res) => {
   
   Product.create(req.body)
     .then((product) => {
