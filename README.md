@@ -28,7 +28,8 @@
 
 ## Installation
  
-
+For this application you will need to install dotenv, mysql2, sequelize, and express.
+(npm i, dotenv, mysql2, sequelize, and express)
 
 ## Usage
 
@@ -57,3 +58,5 @@ For any questions please use the contact information below
  github repo https://github.com/zdeal1026/employee_tracker 
 
 ## Links
+
+https://github.com/zdeal1026/ecommerce_backend
