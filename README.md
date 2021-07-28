@@ -24,7 +24,7 @@
 
 ## Description
 
-
+For this application, we used starter code to create a backend that we tested through the insomnia application. We completed the js files in the models and api folders. 
 
 ## Installation
  
