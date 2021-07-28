@@ -32,6 +32,7 @@
 
 ## Usage
 
+To use the application, install dependencies needed (npm i, dotenv, express, mysql2,and sequelize).You will also need to create your table in mysql workbench. Once the dependencies are installed and your table is started, you will have to run your seeds file (node seeds/index.js). Once all of these items are done you can start your server. Then after all of these steps are completed you can use the insomnia application to test your backend. 
 
 
 ## License
