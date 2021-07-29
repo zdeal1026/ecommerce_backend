@@ -1,3 +1,5 @@
+![crud](https://user-images.githubusercontent.com/82068157/127435388-af7eba8a-8e2a-4d82-8191-7b45729c5b00.gif)
+![crud](https://user-images.githubusercontent.com/82068157/127435412-dad10b79-3053-4602-bc09-a31bc7fc7675.gif)
 # ecommerce_backend
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
