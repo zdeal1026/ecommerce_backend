@@ -1,5 +1,3 @@
-![crud](https://user-images.githubusercontent.com/82068157/127435388-af7eba8a-8e2a-4d82-8191-7b45729c5b00.gif)
-![crud](https://user-images.githubusercontent.com/82068157/127435412-dad10b79-3053-4602-bc09-a31bc7fc7675.gif)
 # ecommerce_backend
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -63,3 +61,5 @@ https://drive.google.com/file/d/1U22eq0peBLk4pyhXX5qZpnf2STJXWgqI/view
 ![get1](https://user-images.githubusercontent.com/82068157/127434803-6c491d65-c252-4592-8734-2a8d2f63455f.gif)
 
 ![id1](https://user-images.githubusercontent.com/82068157/127434816-832ef65a-0e7f-4839-bd4f-8d4c0ba5920d.gif)
+
+![crud](https://user-images.githubusercontent.com/82068157/127435388-af7eba8a-8e2a-4d82-8191-7b45729c5b00.gif)
