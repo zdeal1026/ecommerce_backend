@@ -14,8 +14,6 @@
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 * [Contact](#contact)
@@ -44,9 +42,6 @@ MIT license used.
 
 Allow users to contribute to the application using Contributor Covenant (https://www.contributor-covenant.org/)
 
-## Tests
-
-To test the index.js file, open the integrated terminal and run "npm start", then you will be presented with the application.
 
 ## Questions
 
@@ -60,3 +55,5 @@ For any questions please use the contact information below
 ## Links
 
 https://github.com/zdeal1026/ecommerce_backend
+
+https://drive.google.com/file/d/1U22eq0peBLk4pyhXX5qZpnf2STJXWgqI/view
