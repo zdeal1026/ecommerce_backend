@@ -57,3 +57,7 @@ For any questions please use the contact information below
 https://github.com/zdeal1026/ecommerce_backend
 
 https://drive.google.com/file/d/1U22eq0peBLk4pyhXX5qZpnf2STJXWgqI/view
+
+![get1](https://user-images.githubusercontent.com/82068157/127434803-6c491d65-c252-4592-8734-2a8d2f63455f.gif)
+
+![id1](https://user-images.githubusercontent.com/82068157/127434816-832ef65a-0e7f-4839-bd4f-8d4c0ba5920d.gif)
